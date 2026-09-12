@@ -1,0 +1,1 @@
+(function(){function fit(){var v=window.visualViewport;var w=v?v.width:innerWidth,h=v?v.height:innerHeight;document.documentElement.style.setProperty('--fit',Math.min(w/390,h/844));}fit();addEventListener('resize',fit);if(window.visualViewport)visualViewport.addEventListener('resize',fit);})();

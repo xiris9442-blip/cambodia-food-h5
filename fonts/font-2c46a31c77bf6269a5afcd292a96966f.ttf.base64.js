@@ -1,0 +1,1 @@
+MUGEDA_DATA_CALLBACK_font$2c46a31c77bf6269a5afcd292a96966f$ttf("data:application/x-font-ttf;charset=utf-8;base64,eyJzdGF0dXMiOjMsImVycm9yIjoiSW52YWxpZCBvciBtaXNzaW5nIGFyZ3VtZW50Lihmb250IG5hbWUgb3IgY29udGVudCBpcyBtaXNzaW5nLikifQ==");

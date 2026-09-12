@@ -1,0 +1,546 @@
+{
+  "unchangedMediaAndFonts": [
+    "fonts/font-15a5cc963d26347b5f8d803383e9516c.ttf",
+    "fonts/font-15a5cc963d26347b5f8d803383e9516c.ttf.base64.js",
+    "fonts/font-2c46a31c77bf6269a5afcd292a96966f.ttf",
+    "fonts/font-2c46a31c77bf6269a5afcd292a96966f.ttf.base64.js",
+    "fonts/font-318951d20524af63cfaad81cc91fbfd9.ttf",
+    "fonts/font-318951d20524af63cfaad81cc91fbfd9.ttf.base64.js",
+    "fonts/font-9f386eb7ef82faefa881316fe5693a30.ttf",
+    "fonts/font-9f386eb7ef82faefa881316fe5693a30.ttf.base64.js",
+    "fonts/font-bb9893bc3762c85d1a2fc19efebd68e8.ttf",
+    "fonts/font-bb9893bc3762c85d1a2fc19efebd68e8.ttf.base64.js",
+    "fonts/font-fb4873ec9450a7e3cfa1d2d3c134d7f8.ttf",
+    "fonts/font-fb4873ec9450a7e3cfa1d2d3c134d7f8.ttf.base64.js",
+    "images/6a98e349cf566a3e540ba1f7.png",
+    "images/6a9c281689539670fc02c870.PNG",
+    "images/6a9c291b4f0821ca1e024b9f.PNG",
+    "images/6aa034e05ab947cbf701eda3.png",
+    "images/6aa034e0e61b0417830489cf.png",
+    "images/6aa0fb55383ca6491103b840.png",
+    "images/6aa2000852759b96aa009dc7.png",
+    "images/6aa2001ec8dc31cee500ff41.png",
+    "images/6aa2002c438cd4584f04c98d.png",
+    "images/6aa2003db085dd172a04c01e.jpg",
+    "images/6aa20073cf74f1140901aafe.png",
+    "images/6aa20126dd14d4d94d0f194b.jpg",
+    "images/6aa20196f9bcafe4b10131a1.png",
+    "images/6aa204f585ad5d23ba058f07.png",
+    "images/addpic.png",
+    "images/close_button.png",
+    "images/loading.gif",
+    "images/play_icon.png",
+    "images/sprites.png",
+    "story-assets/background.png",
+    "story-assets/portraits.png",
+    "quiz/assets/amok.png",
+    "quiz/assets/koko.png",
+    "quiz/assets/loklak.png",
+    "quiz/assets/numansom.png",
+    "quiz/assets/page_bg.jpg",
+    "quiz/assets/prahok.png",
+    "quiz/assets/progress_0.png",
+    "quiz/assets/progress_1.png",
+    "quiz/assets/progress_2.png",
+    "quiz/assets/progress_3.png",
+    "quiz/assets/progress_4.png",
+    "quiz/assets/progress_5.png",
+    "quiz/assets/table_scene.jpg",
+    "quiz/assets/ui_back.png",
+    "quiz/assets/ui_badge.png",
+    "quiz/assets/ui_check.png",
+    "quiz/assets/ui_continue.png",
+    "quiz/assets/ui_cross.png",
+    "quiz/assets/ui_cross_big.png",
+    "quiz/assets/ui_dialogue.png",
+    "quiz/assets/ui_option_a.png",
+    "quiz/assets/ui_option_b.png",
+    "quiz/assets/ui_option_c.png",
+    "quiz/assets/ui_option_d.png",
+    "quiz/assets/ui_play.png",
+    "quiz/assets/ui_progress.png",
+    "quiz/assets/ui_small_label.png"
+  ],
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 43655,
+      "sha256": "8e2b0a632e774bc713391f5b2cf0b8f2fc29c0c10c1b91f14ecae2fddf8697a9"
+    },
+    {
+      "path": "integration.js",
+      "bytes": 5074,
+      "sha256": "67e834a4adb3f96507a453f5422a33b55727d9cca535738c755de38a2080b3ff"
+    },
+    {
+      "path": "knowledge-scroll-fix.js",
+      "bytes": 2606,
+      "sha256": "f195c7e27bdece049177d2c91c56898a1b2897ac955497dfb862f240b7ce47fe"
+    },
+    {
+      "path": "music.js",
+      "bytes": 3321,
+      "sha256": "3a617709e592aaf5b56ed740de34d08a4b0dd77b81bbf9ef797a52e26906bad8"
+    },
+    {
+      "path": "single-page.js",
+      "bytes": 16423,
+      "sha256": "753e522870730246eefe052ae241341e7ddc94a5c5c27b6200d25938062cbe97"
+    },
+    {
+      "path": "story.css",
+      "bytes": 2762,
+      "sha256": "2bfc51d2e3a281699219cca4a19c2141c2715145b6943c9f9a13023661c2f076"
+    },
+    {
+      "path": "story.js",
+      "bytes": 4805,
+      "sha256": "2f9e489ddf8f75a7f15b65a0f75017a3db07f94e713d414af8adda717b3393d2"
+    },
+    {
+      "path": "打开与测试说明.txt",
+      "bytes": 1325,
+      "sha256": "cf69d9548dd81fe61e7e4769c7b4340aaeeb1db129a9757e3ff0092363e9cee8"
+    },
+    {
+      "path": "测试结果.json",
+      "bytes": 983,
+      "sha256": "625b6ee4b4de645854a9e43c3c36177e8ff1e3e2b35bd182ddbe9bf390c21fd3"
+    },
+    {
+      "path": "fonts/font-15a5cc963d26347b5f8d803383e9516c.ttf",
+      "bytes": 7104,
+      "sha256": "5aeea6983ca46183987c609fefec0277e8eee1f58a3e66668f44b41b7b29cc4e"
+    },
+    {
+      "path": "fonts/font-15a5cc963d26347b5f8d803383e9516c.ttf.base64.js",
+      "bytes": 9588,
+      "sha256": "656592b7d30489ec78576fb6431b4031f02de3c75427265dda7d15d88051f600"
+    },
+    {
+      "path": "fonts/font-2c46a31c77bf6269a5afcd292a96966f.ttf",
+      "bytes": 85,
+      "sha256": "f14bda3a9f52de0061a4790e84fc0c87dc9c8936b42c963ebd685f65bda55ebd"
+    },
+    {
+      "path": "fonts/font-2c46a31c77bf6269a5afcd292a96966f.ttf.base64.js",
+      "bytes": 232,
+      "sha256": "b1b7568731b592ce6b80a7d0fa0690f15b8b00f56f4065101d4bf151b6923fda"
+    },
+    {
+      "path": "fonts/font-318951d20524af63cfaad81cc91fbfd9.ttf",
+      "bytes": 3720,
+      "sha256": "98220086c628ee20768b916f057233177f26b218c8779e093808305380991117"
+    },
+    {
+      "path": "fonts/font-318951d20524af63cfaad81cc91fbfd9.ttf.base64.js",
+      "bytes": 5076,
+      "sha256": "671d07d74fb80350423b217a039db0cca3dcdded7cb15d6918011f97bbba0996"
+    },
+    {
+      "path": "fonts/font-9f386eb7ef82faefa881316fe5693a30.ttf",
+      "bytes": 6296,
+      "sha256": "64492f185e674ad24978e8ee8269ea23d39ab7222fae8ad9c47de7bce22ba3cf"
+    },
+    {
+      "path": "fonts/font-9f386eb7ef82faefa881316fe5693a30.ttf.base64.js",
+      "bytes": 8512,
+      "sha256": "38b833e0e5a5ba2f817081bb63cde4f1817870e92a567ec72a2ed3aaa477095d"
+    },
+    {
+      "path": "fonts/font-bb9893bc3762c85d1a2fc19efebd68e8.ttf",
+      "bytes": 2668,
+      "sha256": "4a31025a301d75a98955817c954f070c0706889e7248d367cb58686f1a4110d4"
+    },
+    {
+      "path": "fonts/font-bb9893bc3762c85d1a2fc19efebd68e8.ttf.base64.js",
+      "bytes": 3676,
+      "sha256": "7d432e99380e716c49b4a95799535c3f04747f1e54d44876deee3da6543558b8"
+    },
+    {
+      "path": "fonts/font-fb4873ec9450a7e3cfa1d2d3c134d7f8.ttf",
+      "bytes": 3084,
+      "sha256": "08fe1c4665d52971550173b500ded70a32b71469eba60c16e83095794ae26ac4"
+    },
+    {
+      "path": "fonts/font-fb4873ec9450a7e3cfa1d2d3c134d7f8.ttf.base64.js",
+      "bytes": 4228,
+      "sha256": "713a30493ba7a2a1550d1d8df5338223701bc7f30b00b9261633fde9e2d4d00a"
+    },
+    {
+      "path": "images/6a98e349cf566a3e540ba1f7.png",
+      "bytes": 2496210,
+      "sha256": "dab81ccfde2cdd80fa0515134484b9d60bf0326aa50829cf760988cf77b836cc"
+    },
+    {
+      "path": "images/6a9c281689539670fc02c870.PNG",
+      "bytes": 836733,
+      "sha256": "48c5830cdc0d13c0374ff4722e909bc2855ea395aa07953b799207730568f62a"
+    },
+    {
+      "path": "images/6a9c281689539670fc02c870.webp",
+      "bytes": 100278,
+      "sha256": "f4ed24a55fc87c662cb1d1a68ad38cf0b273ab76228c2cfe9ae7a29b342c9be8"
+    },
+    {
+      "path": "images/6a9c291b4f0821ca1e024b9f.PNG",
+      "bytes": 1952958,
+      "sha256": "b0557e2704532add275f08b0074f1066223191a71bda5195aa4561e3c68a8f25"
+    },
+    {
+      "path": "images/6a9c291b4f0821ca1e024b9f.webp",
+      "bytes": 285836,
+      "sha256": "e9f5f22325bae48d7c864c618a3ff91d9a3601b316360ee64c483392d6daf0de"
+    },
+    {
+      "path": "images/6aa034e05ab947cbf701eda3.png",
+      "bytes": 480285,
+      "sha256": "2e3a765148e64dc1a3294e40fe35811ed755c27cd7874fab0c25c2a9f8eff7a1"
+    },
+    {
+      "path": "images/6aa034e05ab947cbf701eda3.webp",
+      "bytes": 61366,
+      "sha256": "be27fc9375915cd1ba36696a273c4f28aad79935482840c9c5a326bb30733bf1"
+    },
+    {
+      "path": "images/6aa034e0e61b0417830489cf.png",
+      "bytes": 490774,
+      "sha256": "7cbf08312d6bfa6e979608849b29423242ac6136f5e3f4a52de11c2ef8b27be9"
+    },
+    {
+      "path": "images/6aa034e0e61b0417830489cf.webp",
+      "bytes": 64034,
+      "sha256": "0f66d4dd3d103807ca1a5b6b3005023421dd7083aeaa12a3f191f4b32fe2da56"
+    },
+    {
+      "path": "images/6aa0fb55383ca6491103b840.png",
+      "bytes": 3617219,
+      "sha256": "f350c66845abac7927635b839dac9a9e630fdc5181498d2a52beb852c56f4cdf"
+    },
+    {
+      "path": "images/6aa0fb55383ca6491103b840.webp",
+      "bytes": 1017642,
+      "sha256": "418c582d800c3b5227bbc08eaa8206c46c0454751377c1e6d9baa0bc61a30d8d"
+    },
+    {
+      "path": "images/6aa2000852759b96aa009dc7.png",
+      "bytes": 386534,
+      "sha256": "ba274a89eecb6026c0dbaf2cacd8bc05e61a49827fbedcb111285d379dd74953"
+    },
+    {
+      "path": "images/6aa2001ec8dc31cee500ff41.png",
+      "bytes": 812094,
+      "sha256": "2fe09644da06596ae22a2ff49c765a3d53b2c11d545b8d6d2da4ee10603e51ef"
+    },
+    {
+      "path": "images/6aa2002c438cd4584f04c98d.png",
+      "bytes": 592253,
+      "sha256": "a623e2ccf2d56d9c2c00420cfdcc0643fef247bcf1873865d13683aa2d7ac46e"
+    },
+    {
+      "path": "images/6aa2003db085dd172a04c01e.jpg",
+      "bytes": 17052,
+      "sha256": "27c69f93fa97136a3b9648382a470f1a33e9ade6260ac7c32ed7a2c954bc5db3"
+    },
+    {
+      "path": "images/6aa2003db085dd172a04c01e.webp",
+      "bytes": 78,
+      "sha256": "09436481ad8a820d14c94c7915de77aa96e5029c1bf12bfd6a8f9b49b59a0c74"
+    },
+    {
+      "path": "images/6aa20073cf74f1140901aafe.png",
+      "bytes": 4287375,
+      "sha256": "33b7728cd69aa0b179eaafe7d4ef2cb3028d64ab071bffef625e064d5010c07c"
+    },
+    {
+      "path": "images/6aa20073cf74f1140901aafe.webp",
+      "bytes": 994524,
+      "sha256": "37b1db69ef92e64ccb13b6cffd08a25f6de59043e66491a021429d3390f26875"
+    },
+    {
+      "path": "images/6aa20126dd14d4d94d0f194b.jpg",
+      "bytes": 17052,
+      "sha256": "27c69f93fa97136a3b9648382a470f1a33e9ade6260ac7c32ed7a2c954bc5db3"
+    },
+    {
+      "path": "images/6aa20196f9bcafe4b10131a1.png",
+      "bytes": 386533,
+      "sha256": "c4c5021284691d92947b42449c7fe5abd827df5b7c640e193d63c49ee3c2ad6b"
+    },
+    {
+      "path": "images/6aa204f585ad5d23ba058f07.png",
+      "bytes": 2542769,
+      "sha256": "1a46f38e775f52416fc4ea14275225c8e11da5cca3e54a05f2bbc852f3bd6034"
+    },
+    {
+      "path": "images/6aa204f585ad5d23ba058f07.webp",
+      "bytes": 680758,
+      "sha256": "35adb211b4b7406a373078179b3b24dd9f36b450721c0e78c97445c101fd610d"
+    },
+    {
+      "path": "images/addpic.png",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "images/close_button.png",
+      "bytes": 774,
+      "sha256": "4e69c5ee11ac3d23a8614bf541a6b5c3f18f621a8bef41cf6bdc3d0be31ae939"
+    },
+    {
+      "path": "images/loading.gif",
+      "bytes": 878,
+      "sha256": "9c497084544600af9cecc4c1972500ed00d25060e3d1b362829a30279a72526d"
+    },
+    {
+      "path": "images/play_icon.png",
+      "bytes": 1477,
+      "sha256": "144ba0be1ff3a8baf3b59643a84fe560e0a5874d849dfbad93d242f47cffbc46"
+    },
+    {
+      "path": "images/sprites.png",
+      "bytes": 61599,
+      "sha256": "a41801c162790abb2a3f1ae42b54bb2f2151065e207ed18027d305ad9ad7574d"
+    },
+    {
+      "path": "js/6aa045cef1916c745c0d3cb5.js",
+      "bytes": 25252,
+      "sha256": "d4d3702324cce0b3e25996dcc600adac8cf93d22c5e38517d7bdf9929ee98646"
+    },
+    {
+      "path": "js/card_common_0.4.9.js",
+      "bytes": 126429,
+      "sha256": "1d485b8e845b55c0e2b7c2d1f927895cf965246ee3cf5a59301e38214708e5b6"
+    },
+    {
+      "path": "js/loader.js",
+      "bytes": 26666,
+      "sha256": "514bb3b90651f3221a76bd478ac231989f299d14c35c56018287e67d22e6b447"
+    },
+    {
+      "path": "js/manifest.js",
+      "bytes": 764,
+      "sha256": "8babc6f59f07770b2346ff07ef372ac43f3156107742b0e24e1bc80bb9ccca4a"
+    },
+    {
+      "path": "js/mraid.js",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "js/mugeda_page_0.4.9.js",
+      "bytes": 81124,
+      "sha256": "8275ec8a1df73bc35c8d2f596e7874787d5d2a08e1da31d13c71a0a6b0ee0842"
+    },
+    {
+      "path": "js/mugeda_smart_renderer_0.4.9.js",
+      "bytes": 708237,
+      "sha256": "52166d191afd5a2b1af374b2c6ac7f92b7f68aabebef7b835e4a19c81ce213ae"
+    },
+    {
+      "path": "js/mugeda_smart_renderer_audioEvaluation_0.4.9.js",
+      "bytes": 7685,
+      "sha256": "8f8262c05b7f15eb9a487cd5f043f2d613365edba91dc203a2be8727cebe40da"
+    },
+    {
+      "path": "js/mugeda_smart_renderer_preact_0.4.9.js",
+      "bytes": 7786,
+      "sha256": "339828266b4df44658a7503a8e1bee5370ae199f12d106647a541c897524d8dc"
+    },
+    {
+      "path": "js/mugeda_smart_renderer_recordaudio_0.4.9.js",
+      "bytes": 11285,
+      "sha256": "717e26cb3ba01c3ad3b07254225180906650e499267b529541839dacdc8ccf5e"
+    },
+    {
+      "path": "js/mugeda_smart_renderer_recorder_0.4.9.js",
+      "bytes": 159810,
+      "sha256": "776d046cc7201d66fc82310e8b69d41e0ca1da5b561f4dff3434c307a9b04525"
+    },
+    {
+      "path": "js/mugeda_smart_renderer_recordNative_0.4.9.js",
+      "bytes": 10225,
+      "sha256": "52561a4913c7777b0ca9a378d756cd030dc942449e94c839cb5ce09620f49515"
+    },
+    {
+      "path": "js/mugeda_smart_renderer_slateText_0.4.9.js",
+      "bytes": 4603,
+      "sha256": "463e2c4d9362aa2ad17add1f1ced0c90c3d5b804d3c1af5be85a1745cb9e382a"
+    },
+    {
+      "path": "js/mugeda_smart_renderer_tiku_0.4.9.js",
+      "bytes": 291957,
+      "sha256": "2442dbc262b5b326df8b5014cac64d933288eec37c38df23a9dbae3597f632f2"
+    },
+    {
+      "path": "js/mugeda_utils_0.4.9.js",
+      "bytes": 213790,
+      "sha256": "c02750005d637aa73819f5e85b4c21adcc45c2b40259047315b14c5db6aca0a7"
+    },
+    {
+      "path": "music-assets/background.mp3",
+      "bytes": 3459294,
+      "sha256": "f1fa3cc248114a813217fa1de5bd36275f1979bd71d2c5fe58ecce944dcfffdd"
+    },
+    {
+      "path": "music-assets/music.png",
+      "bytes": 78363,
+      "sha256": "1487c96f302941a63b936eddf5c9d5cdc52cb65a88360c5fffc81c4928cddc1c"
+    },
+    {
+      "path": "quiz/viewport-fit.js",
+      "bytes": 296,
+      "sha256": "9700c61a10880f2678d601f139d846feb9f0ebb716d8906d5af3fd7b7ca565a7"
+    },
+    {
+      "path": "story-assets/background.png",
+      "bytes": 2496210,
+      "sha256": "dab81ccfde2cdd80fa0515134484b9d60bf0326aa50829cf760988cf77b836cc"
+    },
+    {
+      "path": "story-assets/portraits.png",
+      "bytes": 1798694,
+      "sha256": "091b3ff65c7e81b241e1096ed434e9e9285b48eb98aaeca96ce5e8593109c6cd"
+    },
+    {
+      "path": "story-assets/walk.mp4",
+      "bytes": 18972912,
+      "sha256": "68a38d232917a3863c15553e8fd62b5ad2798345a80eb806b1ed2957688e2ed7"
+    },
+    {
+      "path": "quiz/assets/amok.png",
+      "bytes": 514642,
+      "sha256": "bb2a10cc5681e52deb9de1a3e3f561eba337bffea59ecd86060fac70978e82f1"
+    },
+    {
+      "path": "quiz/assets/koko.png",
+      "bytes": 762614,
+      "sha256": "2a5c44a195090957a20224bb9719da69613c7943e1e0ca88b98f51f282fa2863"
+    },
+    {
+      "path": "quiz/assets/loklak.png",
+      "bytes": 1087300,
+      "sha256": "c4c180e900144a1e50cad64df16111f956c89fc839e6e8a9d0195097cd4c4a29"
+    },
+    {
+      "path": "quiz/assets/numansom.png",
+      "bytes": 692741,
+      "sha256": "3f08410b51dd392ea8c99166cfe4dddbf43df7a3f082e0a45b36359865ad2526"
+    },
+    {
+      "path": "quiz/assets/page_bg.jpg",
+      "bytes": 416762,
+      "sha256": "8090c0fdb4f19ad6fd565ee5b2b47e0a13feb3321082e71381edebe18fa2ec72"
+    },
+    {
+      "path": "quiz/assets/prahok.png",
+      "bytes": 900039,
+      "sha256": "fe61b8e3e28ae9ff08b024a1ab699e473b9a7d2dac0a9da96123142177a65ab8"
+    },
+    {
+      "path": "quiz/assets/progress_0.png",
+      "bytes": 79633,
+      "sha256": "28b797547a6282855545d098e885ed487a65fbd2b58b5283ac882d235800a3cc"
+    },
+    {
+      "path": "quiz/assets/progress_1.png",
+      "bytes": 83464,
+      "sha256": "f77bd875956358b85b0799f558e235e4b82448301261fef7278825fe62ff3267"
+    },
+    {
+      "path": "quiz/assets/progress_2.png",
+      "bytes": 83533,
+      "sha256": "8b12f86605c1c46117fed60b885086b9c521d8ab502e9e1d66f9e6af4c341405"
+    },
+    {
+      "path": "quiz/assets/progress_3.png",
+      "bytes": 83525,
+      "sha256": "ff3e6b14461eafc219a3ad5787e598301a63e26f6d09a147f562f50d599efd9b"
+    },
+    {
+      "path": "quiz/assets/progress_4.png",
+      "bytes": 83418,
+      "sha256": "379201064ee071a0f9d11d02dd1aebf1636da15ef51c95ad6fc7e6ec5a797e6f"
+    },
+    {
+      "path": "quiz/assets/progress_5.png",
+      "bytes": 79923,
+      "sha256": "de597a764ff8252158749927d1b4883d51b6a33b69221b3d52bf9744b7713f16"
+    },
+    {
+      "path": "quiz/assets/table_scene.jpg",
+      "bytes": 467469,
+      "sha256": "0b8feef0f0a61a2dd32fbc1fb4f7655aade98dce9178d54b85b9dfca47cba057"
+    },
+    {
+      "path": "quiz/assets/ui_back.png",
+      "bytes": 220236,
+      "sha256": "f71a6b933bf3a5b0a0dca2e642707d5344d603e6557ddb435c48de4a014e8ae2"
+    },
+    {
+      "path": "quiz/assets/ui_badge.png",
+      "bytes": 143679,
+      "sha256": "6bdd74653620caee08659b995db51759eddbf018dec370837cb0082b176e91a3"
+    },
+    {
+      "path": "quiz/assets/ui_check.png",
+      "bytes": 52398,
+      "sha256": "03d1edacee3bc2edc38230f2e9adf171a5283590287d76eaa0f5ee5b8a6d56cf"
+    },
+    {
+      "path": "quiz/assets/ui_continue.png",
+      "bytes": 216436,
+      "sha256": "a07c317ece31f104d24aa3160ce55f4a5dda627b1044d5e138ea9bc65a16610d"
+    },
+    {
+      "path": "quiz/assets/ui_cross.png",
+      "bytes": 50429,
+      "sha256": "91cdac74e11a2cb9f6691cff974992a2fc3dd9fef404613fce44dce55fec7a2c"
+    },
+    {
+      "path": "quiz/assets/ui_cross_big.png",
+      "bytes": 186024,
+      "sha256": "29cd9e850c67f96de54938feff07717972693bf12b2bf7676c06b53347ba5068"
+    },
+    {
+      "path": "quiz/assets/ui_dialogue.png",
+      "bytes": 277226,
+      "sha256": "d7c5950c67355f1a79914fe56b6bf4fee79f44022f898c1b619ca11275130bc0"
+    },
+    {
+      "path": "quiz/assets/ui_option_a.png",
+      "bytes": 53807,
+      "sha256": "d2666dc7a25e9e71a1baa664131928c30e6a30c6231f2a3445c860ed47155717"
+    },
+    {
+      "path": "quiz/assets/ui_option_b.png",
+      "bytes": 52795,
+      "sha256": "023d061674b98e6b843f134ee8029b5ac4771fb72529acf15815b92f3a7026f4"
+    },
+    {
+      "path": "quiz/assets/ui_option_c.png",
+      "bytes": 54697,
+      "sha256": "27e5e94924cbdd9583e4d8195663370eac33a05dc3ee572c70c932b7f4ddcb7d"
+    },
+    {
+      "path": "quiz/assets/ui_option_d.png",
+      "bytes": 53687,
+      "sha256": "75d4bfbf6e36451d64d2caac574f6eb2afece413adb50b5704bc6ab122449199"
+    },
+    {
+      "path": "quiz/assets/ui_play.png",
+      "bytes": 204937,
+      "sha256": "8bdac802f53e50cea2db0224651aaaeab6c5a3e1a4c47ca5b4ab3705f30738fa"
+    },
+    {
+      "path": "quiz/assets/ui_progress.png",
+      "bytes": 111734,
+      "sha256": "4e34fc381c915cba57a843f0117572925338e411fb7ee574534df318c5fa9b61"
+    },
+    {
+      "path": "quiz/assets/ui_small_label.png",
+      "bytes": 66866,
+      "sha256": "d1b0cf03b7c0c3388830bac46b1b410def96e061959a35628b716c2c4a90a3eb"
+    }
+  ]
+}
